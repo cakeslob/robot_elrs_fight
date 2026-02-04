@@ -13,7 +13,13 @@ https://github.com/cakeslob/ExpressLRS/tree/weact
 
 This is, as am I,  not, a good guide. Franks guide is good, hes probably a pro.
 
-https://github.com/frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS/blob/master/docs/RM-XR2-PWM-Mod/readme.md
+https://github.com/frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS/blob/master/docs/RM-XR2-PWM-Mod/readme.md#firmware-modification
+https://github.com/frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS/blob/master/User-Manuals/Shrew-Zero-User-Manual.md#transmitter-preperation
+
+
+# The webaddress for phone to do am32 configuration when in wifi mode 
+
+10.0.0.1/am32.html
 
 ## WeAct ELRS board with frank firmware for AM32 config wifi
 
