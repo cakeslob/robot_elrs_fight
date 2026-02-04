@@ -15,14 +15,14 @@ https://github.com/frank26080115/Shrew-Dual-Brushed-ESC-with-ELRS/blob/master/do
 
 ## WeAct ELRS board with frank firmware for AM32 config wifi
 
-![](imgs/weact1.jpg)
+![](img/weact1.jpg)
 
 I like the franks mod stuff, I like the ability to config AM32 drivers from phone.  I dont like the plastic antenna on the xr2. WeAct, the compoany who make the stm32f4 blackpill, released an ELRS reciver, with 6 io channels, and 1 battery VIN monitor pin. It sports an ESP32C3, so it can be used for AM32 config. It is priced pretty well(cheapest ESP32 elrs I have seen), and there is lots of room to solder. I forked franks shrew am32 branch and built for the weact board. Bench tests look promising, it works so far.
 
 
 Size wise, its clearly bigger than the XR2 and RP2. It doesnt have a plastic antena, and it has an ESP32C3, and it has more IO and battery monitoring.
 
-![](imgs/weact_xr.jpg)
+![](img/weact_xr.jpg)
 
 
 
