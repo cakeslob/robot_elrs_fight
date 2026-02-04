@@ -8,6 +8,8 @@ robot fight electronics stuff
 - Gyro support with MPU6050 (not for melty but for driving straigt) https://github.com/awigen/ExpressLRS/tree/add-rx-gyro-support
 - Motor feedback from am32 with some kind of filter to drive straight or something, not sure how or what
 
+Fork of franks elrs fork, with weact config
+https://github.com/cakeslob/ExpressLRS/tree/weact
 
 This is, as am I,  not, a good guide. Franks guide is good, hes probably a pro.
 
